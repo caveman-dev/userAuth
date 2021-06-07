@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/caveman-dev/userAuth.git/static/js/main.d0268e35.chunk.js",
+    "main.js.map": "/caveman-dev/userAuth.git/static/js/main.d0268e35.chunk.js.map",
+    "runtime-main.js": "/caveman-dev/userAuth.git/static/js/runtime-main.e217836b.js",
+    "runtime-main.js.map": "/caveman-dev/userAuth.git/static/js/runtime-main.e217836b.js.map",
+    "static/js/2.33b8f5bf.chunk.js": "/caveman-dev/userAuth.git/static/js/2.33b8f5bf.chunk.js",
+    "static/js/2.33b8f5bf.chunk.js.map": "/caveman-dev/userAuth.git/static/js/2.33b8f5bf.chunk.js.map",
+    "index.html": "/caveman-dev/userAuth.git/index.html",
+    "static/js/2.33b8f5bf.chunk.js.LICENSE.txt": "/caveman-dev/userAuth.git/static/js/2.33b8f5bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e217836b.js",
+    "static/js/2.33b8f5bf.chunk.js",
+    "static/js/main.d0268e35.chunk.js"
+  ]
+}
